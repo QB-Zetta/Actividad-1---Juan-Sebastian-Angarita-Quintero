@@ -34,5 +34,5 @@ Object.setPrototypeOf(formatter, {
     }
   });
   // Probar metodo toLowerString
-  formatter.toLowerString("I’m Sebas");   // Resultado: i’m Sebas
+  formatter.toLowerString("I’m Sebas");   // Resultado: i’m sebas
   
